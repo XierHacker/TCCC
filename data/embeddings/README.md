@@ -1,0 +1,1 @@
+you should put word embeddings in this folder
